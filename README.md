@@ -1,7 +1,6 @@
 # panda
-Module 4 Challenge
 
-Analysis on school district data. Looking for trends, comparisons, and conclusions to help the school board and city mayor improve the schools.
+We will be conducting an analysis on school district data by looking for trends, doing comparisons, and coming to conclusions to help the school board and city mayor improve the schools.
 
 --Written Report--
 
